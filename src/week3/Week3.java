@@ -8,6 +8,8 @@ package week3;
  *
  * @author karis
  */
+//Show fetch 
+//Showing Merge 
 public class Week3 {
 
     /**
@@ -19,6 +21,7 @@ public class Week3 {
         //adding a comment 
         //making another change 
         //using pull command 
+        //Fetching and Merging commands 
     }
     
 }
